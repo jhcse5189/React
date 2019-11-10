@@ -22,3 +22,18 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_Jav
 https://github.com/tastejs/todomvc/tree/gh-pages/examples/react
 
 * * *
+
+* ## Reference
+
+- [X] React Tutorial by w3schools\
+https://www.w3schools.com/react/
+
+* * *
+
+* ## Setting
+
+>1. install latest node.js & npm (& npx)
+
+download binary from node's official site,\
+and follow the URL.\
+https://github.com/nodejs/help/wiki/Installation
