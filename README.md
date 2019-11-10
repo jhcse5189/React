@@ -7,6 +7,7 @@ https://reactjs.org/docs/getting-started.html
 
     - [ ] React for Beginners\
     https://www.taniarascia.com/getting-started-with-react/
+    
     - [ ] Tutorial
     https://reactjs.org/tutorial/tutorial.html
 
