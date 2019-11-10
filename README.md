@@ -17,7 +17,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_Jav
 
 * ## GOAL
 
-- [] Implement React TOdoMVC Example\
+- [ ] Implement React TOdoMVC Example\
 https://github.com/tastejs/todomvc/tree/gh-pages/examples/react
 
 * * *
