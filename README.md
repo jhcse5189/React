@@ -37,3 +37,5 @@ https://www.w3schools.com/react/
 download binary from node's official site,\
 and follow the URL.\
 https://github.com/nodejs/help/wiki/Installation
+
+...
